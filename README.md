@@ -12,7 +12,7 @@ Penni can be used in many ways which include:
 - Provide step-by-step guides for using and navigating FNB services
 - Escalate unresolved queries to live agents via call, chat, or email.
 
-## Techincal Architecture
+## Techincal Architecture To Be Implemented
 - Frontend = React (Web), Flutter (Mobile)
 - Backend = Node.js + Express
 - NLP Engine = Google Dialogflow or Rasa
