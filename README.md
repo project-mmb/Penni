@@ -1,4 +1,4 @@
-# 📘 AI Financial Coach – IntelliBank Advisor
+# 📘 🪙Penni
 
 🪙Penni Is an AI assistant primarly based in financal queries and advice. 
 
